@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1546553",
+      "name": "IOS",
+      "font_class": "IOS",
+      "unicode": "e68c",
+      "unicode_decimal": 59020
+    },
+    {
+      "icon_id": "1546555",
+      "name": "QQ",
+      "font_class": "QQ",
+      "unicode": "e68d",
+      "unicode_decimal": 59021
+    },
+    {
+      "icon_id": "1546598",
+      "name": "微博",
+      "font_class": "weibo",
+      "unicode": "e699",
+      "unicode_decimal": 59033
+    },
+    {
+      "icon_id": "1546600",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e69a",
+      "unicode_decimal": 59034
+    }
+  ]
+}

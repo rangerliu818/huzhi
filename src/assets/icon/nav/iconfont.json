@@ -1,0 +1,44 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7767869",
+      "name": "我 的",
+      "font_class": "sself",
+      "unicode": "e510",
+      "unicode_decimal": 58640
+    },
+    {
+      "icon_id": "17774483",
+      "name": "知乎_首页",
+      "font_class": "zhihu_shouye",
+      "unicode": "e7a4",
+      "unicode_decimal": 59300
+    },
+    {
+      "icon_id": "17775102",
+      "name": "知乎_会员",
+      "font_class": "zhihu_huiyuan",
+      "unicode": "e7a5",
+      "unicode_decimal": 59301
+    },
+    {
+      "icon_id": "17776005",
+      "name": "知乎_发现",
+      "font_class": "zhihu_faxian",
+      "unicode": "e7a6",
+      "unicode_decimal": 59302
+    },
+    {
+      "icon_id": "17776376",
+      "name": "知乎_消息",
+      "font_class": "zhihu_xiaoxi",
+      "unicode": "e7a7",
+      "unicode_decimal": 59303
+    }
+  ]
+}

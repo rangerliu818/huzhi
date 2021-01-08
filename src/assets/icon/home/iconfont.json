@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "13132442",
+      "name": "添加",
+      "font_class": "jia",
+      "unicode": "e506",
+      "unicode_decimal": 58630
+    },
+    {
+      "icon_id": "17972293",
+      "name": "直播",
+      "font_class": "zhibo",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    }
+  ]
+}
